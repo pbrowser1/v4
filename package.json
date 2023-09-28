@@ -1,7 +1,7 @@
 {
   "name": "artclass",
   "version": "4.0.0",
-  "description": "More than just a game site",
+  "description": "More than just a site",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
